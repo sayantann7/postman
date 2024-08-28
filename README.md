@@ -1,4 +1,3 @@
-# postman
 # Flask API README
 
 This README provides information about the Flask API, including its endpoints, functionality, and how to test it using Postman.
